@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "ferjozsot",
+            "name": "Fernando"
+        },
+        {
+            "id": 2,
+            "username": "david_v",
+            "name": "David Villamar"
+        },
+        {
+            "id": 3,
+            "username": "alice_smith",
+            "name": "Alice Smith"
+        },
+        {
+            "id": 4,
+            "username": "jane_smith",
+            "name": "Jane Smith"
+        },
+        {
+            "id": 5,
+            "username": "robert_jones",
+            "name": "Robert Jones"
+        }
+    ]
+}
